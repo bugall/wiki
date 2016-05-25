@@ -22,19 +22,7 @@ Status-code: 200 OK
 {   
     code:200,
     msg:'ok',
-    data:{
-      tribeMember:[{
-        id:'number',
-        avatar:'string',
-        nickname:'string' 
-      }]
-    }
+    data:{}
 }
 ```
-
-|Name|Type|Description| 
-|----|----|--- | 
-| tribeMember |   Array  | all members | 
-| tribeMember -> id |   JSON  | id of tribe member | 
-| tribeMember -> avatar |   String  | tribe member avatar | 
-| tribeMember -> nickname |   String  | tribe member nickname | 
+ 
