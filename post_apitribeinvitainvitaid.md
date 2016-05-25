@@ -12,9 +12,13 @@ none
 #### Path Parameters
 |Name|Type|Description| 
 |----|---|---|
-| tribeId |number| tribeId.| 
+| invitaId |number| id of user who invited by tribe manager| 
 
-#### 
+#### POST Parameters
+|Name|Type|Description| 
+|----|---|---|
+| tribe_id |number| tribeId.|
+
 #### Response
 Status-code: 200 OK
 
