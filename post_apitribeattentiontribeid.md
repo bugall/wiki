@@ -1,7 +1,7 @@
-### 1. DELETE /api/tribe/member/:memberId
+### POST /api/tribe/atttention/:tribeId
 
 #### Description
-delete user from tribe
+attention tribe
 #### Resource
  > Please look forward to ☺
 
@@ -11,12 +11,8 @@ none
 #### Path Parameters
 |Name|Type|Description| 
 |----|---|---|
-| memberId |number| id of user who deleted by tribe manager| 
+| tribeId |number| tribeId| 
 
-#### PUT Parameters
-|Name|Type|Description| 
-|----|---|---|
-| tribeId |number| tribeId.|
 
 #### Response
 Status-code: 200 OK
