@@ -13,7 +13,7 @@ none
 |----|---|---|
 | memberId |number| id of user who deleted by tribe manager| 
 
-#### PUT Parameters
+#### DELETE Parameters
 |Name|Type|Description| 
 |----|---|---|
 | tribeId |number| tribeId.|
