@@ -1,7 +1,7 @@
 ### GET /api/tribe/agree/apply/join/:tribeId/:applyId
 
 #### Description
-tribe manager agree use to join tribe
+tribe manager agree user to join tribe
 #### Resource
  > Please look forward to ☺
 
