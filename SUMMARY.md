@@ -11,5 +11,5 @@
    * [DELETE  /api/tribe/member/:memberId](delete__apitribemembermemberid.md)
    * [POST /api/tribe/attention/:tribeId](post_apitribeattentiontribeid.md)
    * [DELETE /api/tribe/attention/:tribeId](delete_apitribeattentiontribeid.md)
-   * GET /api/agree/apply/join/:tribeId/:applyId
+   * [GET /api/agree/apply/join/:tribeId/:applyId](get_apiagreeapplyjointribeidapplyid.md)
 
