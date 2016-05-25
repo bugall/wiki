@@ -2,5 +2,6 @@
 
 * [Introduction](README.md)
 * [1.Tribe.md](1chapter1md.md)
-   * [ GET /api/tribe/info/:tribeId](asd.md)
+   * [GET /api/tribe/info/:tribeId](asd.md)
+   * GET /api/tribe/member/:tribeId
 
