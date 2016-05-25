@@ -8,4 +8,5 @@
    * [POST /api/tribe/invita/:invitaId](post_apitribeinvitainvitaid.md)
    * [PUT /api/tribe/member/upgrade/:userId](put_apitribememberupgradeuserid.md)
    * [PUT /api/tribe/member/downgrade/:userId](put_apitribememberdowngradeuserid.md)
+   * DELETE  /api/tribe/member/:memberId
 
