@@ -5,5 +5,5 @@
    * [GET /api/tribe/info/:tribeId](asd.md)
    * [GET /api/tribe/member/:tribeId](get_apitribemembertribeid.md)
    * [POST /api/tribe/apply/:tribeId](post_apitribeapplytribeid.md)
-   * POST /api/tribe/invita/:invitaId
+   * [POST /api/tribe/invita/:invitaId](post_apitribeinvitainvitaid.md)
 
