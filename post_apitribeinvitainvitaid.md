@@ -1,7 +1,7 @@
-### 1. POST /api/tribe/apply/:tribeId
+### 1. POST /api/tribe/invita/:tribeId
 
 #### Description
-Get all members in tribe by tribeId
+invita user to join tribe
 
 #### Resource
  > Please look forward to ☺
@@ -14,6 +14,7 @@ none
 |----|---|---|
 | tribeId |number| tribeId.| 
 
+#### 
 #### Response
 Status-code: 200 OK
 
