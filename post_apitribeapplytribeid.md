@@ -1,7 +1,7 @@
 ### 1. POST /api/tribe/apply/:tribeId
 
 #### Description
-Get all members in tribe by tribeId
+Apply to join tribe 
 
 #### Resource
  > Please look forward to ☺
