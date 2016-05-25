@@ -1,4 +1,4 @@
-### GET /api/tribe/agree/apply/join/:tribeId/:applyId
+### GET /api/tribe/refuse/apply/join/:tribeId/:applyId
 
 #### Description
 tribe manager disagree user to join tribe
