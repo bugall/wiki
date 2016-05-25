@@ -10,4 +10,5 @@
    * [PUT /api/tribe/member/downgrade/:userId](put_apitribememberdowngradeuserid.md)
    * [DELETE  /api/tribe/member/:memberId](delete__apitribemembermemberid.md)
    * [POST /api/tribe/attention/:tribeId](post_apitribeattentiontribeid.md)
+   * DELETE /api/tribe/attention/:tribeId
 
