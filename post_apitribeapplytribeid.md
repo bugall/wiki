@@ -1,4 +1,4 @@
-### 1. GET /api/tribe/apply/:tribeId
+### 1. POST /api/tribe/apply/:tribeId
 
 #### Description
 Get all members in tribe by tribeId
