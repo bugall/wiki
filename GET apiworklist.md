@@ -38,8 +38,7 @@ Status-code: 200 OK
 | workList -> thumbnail |   String  | preview of work | 
 | workList -> workName |   String  | name of work | 
 | workList -> status |   Number  | 1 为正常，-99 表示被删除| 
-| tribeInfo -> member_sum |   Number  | how many of user in the tribe| 
-|hasAttention  |  boolean|  express current user whether attention the tribe   |
-|hasJoinTribe  |  boolean|  express current user whether join the tribe   |
+| workList -> publish_time |   Number  | 0表示未发布，非0表示已经发布，表示发布时间| 
+
 
 
