@@ -44,8 +44,8 @@ Status-code: 200 OK
 | workInfo |   JSON  | details of work | 
 | workInfo -> workId |   Number  | id of work | 
 | workInfo -> workName |   String  | name of work | 
-| workInfo -> description |   String  | description of tribe | 
-| workInfo -> attention_sum |   Number  | how many of user attention the tribe| 
+| workInfo -> workPreview |   String  | preview of work(is a cdn url) | 
+| workInfo -> viewTimes |   Number  | how many of user has been see the work| 
 | workInfo -> member_sum |   Number  | how many of user in the tribe| 
 |hasAttention  |  boolean|  express current user whether attention the tribe   |
 |hasJoinTribe  |  boolean|  express current user whether join the tribe   |
