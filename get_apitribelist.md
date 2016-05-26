@@ -9,14 +9,6 @@ get all tribe that i join
 must have user's session info,user must be login
 
 #### Path Parameters
-|Name|Type|Description| 
-|----|---|---|
-| tribeId |number| tribeId| 
-
-#### POST Parameters
-|Name|Type|Description| 
-|----|---|---|
-| workId |number| which work do you want to add|
 
 
 #### Response
@@ -27,7 +19,16 @@ Status-code: 200 OK
 {   
     code:200,
     msg:'ok',
-    data:{}
+    data:{
+      trbeList:[{
+        id:'number',
+        avatar:'string',
+        create_time:'number',
+        works_sum:'number',
+        comment_sum:'number',
+        creater_id:'number'
+      }]
+    }
 }
 ```
  
