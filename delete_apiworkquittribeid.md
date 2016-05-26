@@ -23,15 +23,6 @@ Status-code: 200 OK
     code:200,
     msg:'ok',
     data:{
-      trbeList:[{
-        id:'number',
-        avatar:'string',
-        create_time:'number',
-        works_sum:'number',
-        comment_sum:'number',
-        creater_id:'number',
-        isCreater:'boolean'
-      }]
     }
 }
 ```
