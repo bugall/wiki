@@ -9,6 +9,9 @@ user quit the tribe
 must have user's session info,user must be login
 
 #### Path Parameters
+|Name|Type|Description| 
+|----|---|---|
+| tribeId |number| id of tribe| 
 
 
 #### Response
