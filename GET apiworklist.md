@@ -25,8 +25,13 @@ Status-code: 200 OK
         thumbnail:'string',
         workName:'string',
         status:;'number',
-        publish_time:'number'
-        update_time:'number'
+        publishTime:'number',
+        updateTime:'number',
+        attentionTimes:'number',
+        forkTimes:'number',
+        viewTimes:'number',
+        praiseTimes:'number',
+        commentTimes:'number'
       }]
     }
 }
@@ -39,8 +44,9 @@ Status-code: 200 OK
 | workList -> thumbnail |   String  | preview of work | 
 | workList -> workName |   String  | name of work | 
 | workList -> status |   Number  | 1 为正常，-99 表示被删除| 
-| workList -> publish_time |   Number  | 0表示未发布，非0表示已经发布，表示发布时间| 
-| workList -> update_time |   Number  | 最后一次修改的时间戳| 
+| workList -> publishTime |   Number  | 0表示未发布，非0表示已经发布，表示发布时间| 
+| workList -> updateTime |   Number  | 最后一次修改的时间戳| 
+| workList -> attentionTimes |   Number  | 被收藏的次数 | 
 
 
 
