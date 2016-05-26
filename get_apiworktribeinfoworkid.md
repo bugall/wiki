@@ -30,7 +30,7 @@ Status-code: 200 OK
 
 |Name|Type|Description| 
 |----|----|--- | 
-| tribeList |   Array  | all work of user | 
+| tribeList |   Array  | 作品所在的所有部落 | 
 | tribeList -> id |   Number  | id of tribe | 
 | tribeList -> name |   String  | name of tribe | 
 
