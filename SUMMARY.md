@@ -13,4 +13,5 @@
    * [DELETE /api/tribe/attention/:tribeId](delete_apitribeattentiontribeid.md)
    * [GET /api/tribe/agree/apply/join/:tribeId/:applyId](get_apiagreeapplyjointribeidapplyid.md)
    * [GET /api/tribe/refuse/apply/join/:tribeId/:applyId](get_apitriberefuseapplyjointribeidapplyid.md)
+   * GET /api/tribe/work/:tribeId
 
