@@ -1,7 +1,7 @@
 ### POST /api/tribe/work/:tribeId
 
 #### Description
-add work to tribe
+get all tribe that i join
 #### Resource
  > Please look forward to ☺
 
