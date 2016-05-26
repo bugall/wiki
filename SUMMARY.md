@@ -21,5 +21,5 @@
    * [GET /api/user/tribe](get_apiusertribe.md)
 * [3.Work.md](3workmd.md)
    * [GET /api/work/list](GET apiworklist.md)
-   * GET /api/work/tribe/info/:workId
+   * [GET /api/work/tribe/info/:workId](get_apiworktribeinfoworkid.md)
 
