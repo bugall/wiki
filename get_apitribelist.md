@@ -8,8 +8,6 @@ get all tribe that i join
 #### Authorization
 must have user's session info,user must be login
 
-#### Path Parameters
-
 
 #### Response
 Status-code: 200 OK
