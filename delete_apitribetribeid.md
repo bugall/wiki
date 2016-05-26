@@ -1,0 +1,2 @@
+# DELETE /api/tribe/:tribeId
+
