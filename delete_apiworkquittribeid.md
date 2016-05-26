@@ -1,4 +1,4 @@
-### DELETE /api/work/quit/:tribeId
+### DELETE /api/tribe/quit/:tribeId
 
 #### Description
 user quit the tribe
