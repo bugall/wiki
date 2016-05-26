@@ -27,7 +27,7 @@ Status-code: 200 OK
         status:;'number',
         publishTime:'number',
         updateTime:'number',
-        attentionTimes:'number',
+        collectionTime:'number',
         forkTimes:'number',
         viewTimes:'number',
         praiseTimes:'number',
@@ -46,6 +46,7 @@ Status-code: 200 OK
 | workList -> status |   Number  | 1 为正常，-99 表示被删除| 
 | workList -> publishTime |   Number  | 0表示未发布，非0表示已经发布，表示发布时间| 
 | workList -> updateTime |   Number  | 最后一次修改的时间戳| 
+| workList -> collectionTime |   Number  | 被收藏的次数 | 
 | workList -> attentionTimes |   Number  | 被关注的次数 | 
 
 
