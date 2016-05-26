@@ -19,7 +19,6 @@ must have user's session info,user must be login
 Status-code: 200 OK
 
 ```json
-
 {   
     code:200,
     msg:'ok',
