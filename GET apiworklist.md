@@ -35,9 +35,9 @@ Status-code: 200 OK
 |----|----|--- | 
 | workList |   Array  | all work of user | 
 | workList -> id |   Number  | id of work | 
-| workList -> thumbnail |   String  | avatar of tribe | 
-| tribeInfo -> description |   String  | description of tribe | 
-| tribeInfo -> attention_sum |   Number  | how many of user attention the tribe| 
+| workList -> thumbnail |   String  | preview of work | 
+| workList -> workName |   String  | name of work | 
+| workList -> attention_sum |   Number  | how many of user attention the tribe| 
 | tribeInfo -> member_sum |   Number  | how many of user in the tribe| 
 |hasAttention  |  boolean|  express current user whether attention the tribe   |
 |hasJoinTribe  |  boolean|  express current user whether join the tribe   |
