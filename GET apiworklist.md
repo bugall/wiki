@@ -34,8 +34,8 @@ Status-code: 200 OK
 |Name|Type|Description| 
 |----|----|--- | 
 | workList |   Array  | all work of user | 
-| workList -> id |   JSON  | id of work | 
-| tribeInfo -> avatar |   String  | avatar of tribe | 
+| workList -> id |   Number  | id of work | 
+| workList -> thumbnail |   String  | avatar of tribe | 
 | tribeInfo -> description |   String  | description of tribe | 
 | tribeInfo -> attention_sum |   Number  | how many of user attention the tribe| 
 | tribeInfo -> member_sum |   Number  | how many of user in the tribe| 
