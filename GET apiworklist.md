@@ -26,6 +26,7 @@ Status-code: 200 OK
         workName:'string',
         status:;'number',
         publish_time:'number'
+        update_time:'number'
       }]
     }
 }
@@ -39,6 +40,7 @@ Status-code: 200 OK
 | workList -> workName |   String  | name of work | 
 | workList -> status |   Number  | 1 为正常，-99 表示被删除| 
 | workList -> publish_time |   Number  | 0表示未发布，非0表示已经发布，表示发布时间| 
+| workList -> update_time |   Number  | 最后一次修改的时间戳| 
 
 
 
