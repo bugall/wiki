@@ -22,8 +22,7 @@ Status-code: 200 OK
 {   
     code:200,
     msg:'ok',
-    data:{
-    }
+    data:{}
 }
 ```
 
