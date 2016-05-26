@@ -9,7 +9,7 @@ Apply to join tribe
 #### Authorization
 must have user's session info,user must be login
 
-#### Path Parameters
+#### POST Parameters
 |Name|Type|Description| 
 |----|---|---|
 | tribeId |number| tribeId.| 
