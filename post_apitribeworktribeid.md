@@ -13,6 +13,11 @@ must have user's session info,user must be login
 |----|---|---|
 | tribeId |number| tribeId| 
 
+#### POST Parameters
+|Name|Type|Description| 
+|----|---|---|
+| workId |number| which work do you want to add|
+
 
 #### Response
 Status-code: 200 OK
