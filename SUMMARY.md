@@ -16,6 +16,7 @@
    * [GET /api/tribe/work](get_apitribeworktribeid.md)
    * [POST /api/tribe/work/:tribeId](post_apitribeworktribeid.md)
    * [DELETE /api/tribe/work/:tribeId](delete_apitribeworktribeid.md)
+   * GET /api/tribe/list
 * [2.User.md](2usermd.md)
    * [GET /api/user/tribe](get_apiusertribe.md)
 * [3.Work.md](3workmd.md)
