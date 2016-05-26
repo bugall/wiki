@@ -1,4 +1,4 @@
-### DELETE /api/tribe/quit/:tribeId
+### DELETE /api/tribe/:tribeId
 
 #### Description
 解散部落
@@ -25,5 +25,9 @@ Status-code: 200 OK
     data:{}
 }
 ```
+
+### Appendix
+
+部落解散会群发消息给关注部落的人和部落成员
 
  
