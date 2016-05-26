@@ -46,7 +46,8 @@ Status-code: 200 OK
 | workInfo -> workName |   String  | name of work | 
 | workInfo -> workPreview |   String  | preview of work(is a cdn url) | 
 | workInfo -> viewTimes |   Number  | how many of user has been see the work| 
-| workInfo -> member_sum |   Number  | how many of user in the tribe| 
-|hasAttention  |  boolean|  express current user whether attention the tribe   |
-|hasJoinTribe  |  boolean|  express current user whether join the tribe   |
+| workInfo -> attentionTimes |   Number  | how many of user attention the tribe| 
+|workInfo -> praiseTimes  |  Number|  how many of user praise the work   |
+|workInfo -> userId  |  Number |  user id of the work   |
+|workInfo -> userName  |  String |  user name of the work   |
  
