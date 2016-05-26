@@ -15,4 +15,5 @@
    * [GET /api/tribe/refuse/apply/join/:tribeId/:applyId](get_apitriberefuseapplyjointribeidapplyid.md)
    * [GET /api/tribe/work](get_apitribeworktribeid.md)
    * [POST /api/tribe/work/:tribeId](post_apitribeworktribeid.md)
+   * DELETE /api/tribe/work/:tribeId
 
