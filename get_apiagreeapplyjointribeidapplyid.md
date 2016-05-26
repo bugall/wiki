@@ -6,7 +6,7 @@ tribe manager agree user to join tribe
  > Please look forward to ☺
 
 #### Authorization
-none
+must have user's session info,user must be login
 
 #### Path Parameters
 |Name|Type|Description| 
