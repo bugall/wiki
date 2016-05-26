@@ -12,7 +12,9 @@ none
 #### Path Parameters
 |Name|Type|Description| 
 |----|---|---|
-| tribeId |number| tribeId.| 
+| tribeId |number| tribeId| 
+| amount |number| 一共要多少个成员 |
+| offset |number| 跳过多少个成员 | 
 
 #### Response
 Status-code: 200 OK
