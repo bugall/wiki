@@ -12,7 +12,8 @@ none
 |Name|Type|Description| 
 |----|---|---|
 | tribeId |number| tribeId| 
-| applyId |number| id of user who apply join the tribe| 
+| amount |number| 一共要多少个成员 |
+| offset |number| 跳过多少个成员 | 
 
 
 #### Response
