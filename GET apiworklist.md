@@ -37,7 +37,7 @@ Status-code: 200 OK
 | workList -> id |   Number  | id of work | 
 | workList -> thumbnail |   String  | preview of work | 
 | workList -> workName |   String  | name of work | 
-| workList -> attention_sum |   Number  | how many of user attention the tribe| 
+| workList -> status |   Number  | 1 为正常，-99 表示被删除| 
 | tribeInfo -> member_sum |   Number  | how many of user in the tribe| 
 |hasAttention  |  boolean|  express current user whether attention the tribe   |
 |hasJoinTribe  |  boolean|  express current user whether join the tribe   |
