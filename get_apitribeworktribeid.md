@@ -24,7 +24,18 @@ Status-code: 200 OK
 {   
     code:200,
     msg:'ok',
-    data:{}
+    data:{
+      workInfo:[{
+        workId:'number',
+        workName:'string',
+        workPreview:'string',
+        viewTimes:'number',
+        attentionTimes:'number',
+        praiseTimes:'number',
+        userId:'number',
+        userName:'string'
+      }]
+    }
 }
 ```
  
