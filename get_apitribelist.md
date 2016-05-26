@@ -1,4 +1,4 @@
-### POST /api/tribe/list
+### GET /api/tribe/list
 
 #### Description
 get all tribe that i join
