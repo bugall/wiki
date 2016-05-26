@@ -47,7 +47,10 @@ Status-code: 200 OK
 | workList -> publishTime |   Number  | 0表示未发布，非0表示已经发布，表示发布时间| 
 | workList -> updateTime |   Number  | 最后一次修改的时间戳| 
 | workList -> collectionTime |   Number  | 被收藏的次数 | 
-| workList -> attentionTimes |   Number  | 被关注的次数 | 
+| workList -> forkTimes |   Number  | 被再创作的次数 | 
+| workList -> viewTimes |   Number  | 被浏览的次数 | 
+| workList -> praiseTimes |   Number  | 被点赞的次数 | 
+| workList -> commentTimes |   Number  | 评论的总数 | 
 
 
 
