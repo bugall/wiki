@@ -1,12 +1,12 @@
-### GET /api/tribe/refuse/apply/join/:tribeId/:applyId
+### GET /api/tribe/work
 
 #### Description
-tribe manager disagree user to join tribe
+Get works in tribe
 #### Resource
  > Please look forward to ☺
 
 #### Authorization
-must have user's session info,user must be login
+none
 
 #### Path Parameters
 |Name|Type|Description| 
