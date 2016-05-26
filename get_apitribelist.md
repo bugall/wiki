@@ -26,7 +26,8 @@ Status-code: 200 OK
         create_time:'number',
         works_sum:'number',
         comment_sum:'number',
-        creater_id:'number'
+        creater_id:'number',
+        isCreater:'boolean'
       }]
     }
 }
@@ -35,12 +36,11 @@ Status-code: 200 OK
 |Name|Type|Description| 
 |----|----|--- | 
 | trbeList |   JSON  | details of tribe | 
-| workInfo -> workId |   Number  | id of work | 
-| workInfo -> workName |   String  | name of work | 
-| workInfo -> workPreview |   String  | preview of work(is a cdn url) | 
-| workInfo -> viewTimes |   Number  | how many of user has been see the work| 
-| workInfo -> attentionTimes |   Number  | how many of user attention the tribe| 
-|workInfo -> praiseTimes  |  Number|  how many of user praise the work   |
-|workInfo -> userId  |  Number |  user id of the work   |
-|workInfo -> userName  |  String |  user name of the work   |
+| trbeList -> id |   Number  | id of tribe | 
+| trbeList -> avatar |   String  | avatar of tribe | 
+| trbeList -> create_time |   Number  | 创建部落时候的时间戳 | 
+| trbeList -> works_sum |   Number  | 部落里面的所有作品数量 | 
+| trbeList -> comment_sum |   Number  | 部落的留言数量| 
+|trbeList -> creater_id  |  Number|  部落创建者的id   |
+|trbeList -> isCreater  |  Boolean |   自己是不是部落的创建人true表示是  |
  
