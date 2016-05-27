@@ -25,5 +25,5 @@
 * [3.Work.md](3workmd.md)
    * [GET /api/work/list](GET apiworklist.md)
    * [GET /api/work/tribe/info/:workId](get_apiworktribeinfoworkid.md)
-* IM Message
+* [IM Message](im_message.md)
 
